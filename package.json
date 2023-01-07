@@ -1,0 +1,25 @@
+{
+  "name": "k19406c_nhom2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codecept.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ly2906/K19406C_NHOM2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ly2906/K19406C_NHOM2/issues"
+  },
+  "homepage": "https://github.com/Ly2906/K19406C_NHOM2#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.3.7",
+    "faker": "^6.6.6",
+    "playwright": "1.18",
+    "rosie": "^2.1.0"
+  }
+}
