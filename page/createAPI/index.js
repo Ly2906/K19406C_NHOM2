@@ -14,5 +14,7 @@ module.exports = {
         I.click(createAPILocator.createandseenAPIButton)
         I.wait(2)
         I.click(createAPILocator.completeButton)
+        I.wait(2)
+        I.seeTextEquals(key, createAPILocator.check)
     }
 }

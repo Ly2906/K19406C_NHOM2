@@ -4,5 +4,6 @@ module.exports = {
     createAPIButton: '//button[@class="mat-focus-indicator mat-raised-button mat-button-base"]',
     nameField: '//input[@formcontrolname="name"]',
     createandseenAPIButton: '//span[text()=" Tạo và xem API Key "]',
-    completeButton: '//span[text()="Xong"]'
+    completeButton: '//span[text()="Xong"]',
+    check: '//b'
 }

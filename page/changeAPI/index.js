@@ -9,5 +9,6 @@ module.exports = {
         I.wait(2)
         I.click(changeAPILocator.saveAPIButton)
         I.wait(2)
+        I.seeTextEquals(changenameAPI, changeAPILocator.checkAPI)
     }
 }

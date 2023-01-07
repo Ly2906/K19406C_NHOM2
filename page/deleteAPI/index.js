@@ -7,5 +7,6 @@ module.exports = {
         I.wait(2)
         I.click(deleteAPILocator.confirmButton)
         I.wait(2)
+        I.see('Bắt đầu khởi tạo API Key')
     }
 }
